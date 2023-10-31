@@ -25,7 +25,7 @@
 - lodash.com - A modern JavaScript utility library
 - rxjs.dev - Reactive Extensions Library for JavaScript
 - ng.ant.design - Angular UI kit
-
+- tailwindcss.com - styling
 
 ## License
 
