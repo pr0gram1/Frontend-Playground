@@ -1,4 +1,5 @@
-# Frontend Playground 
+# Frontend Playground
+
 ## _Angular Framework_
 
 [![N|Solid](https://camo.githubusercontent.com/29026b68c52288230bf32bc2268e47e5c3b81dba23106fb062fcc0541f8e9529/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465)](https://nodesource.com/products/nsolid)
@@ -9,23 +10,18 @@
 
 ## Features
 
-- Angular framework based applications  
+- Angular framework based applications
 - Using external libraries and using their properites and options
-- Using RxJs 
+- Using RxJs
 - Using lodash
 - Commenting code for better understanding
 
-
-
-
 ## Tech
 
-
-- Angular.io - Deliver web apps with confidence 
+- Angular.io - Deliver web apps with confidence
 - lodash.com - A modern JavaScript utility library
 - rxjs.dev - Reactive Extensions Library for JavaScript
 - ng.ant.design - Angular UI kit
-
 
 ## License
 
